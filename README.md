@@ -28,10 +28,10 @@ I have a deep love for no-code tools, personal transformation, and designing/bui
 
 ## Books I like to read
 
-* Self help 👩‍🏫
-* Marketing + Sales 🌱
-* Philosophy 🧙🏻‍♂️
-* Ancient Wisdom 👴🏻
+👩‍🏫 Self help <br>
+🌱 Marketing + Sales <br>
+🧙🏻‍♂️ Philosophy <br>
+👴🏻 Ancient Wisdom <br>
 
 ## Say hi
 
