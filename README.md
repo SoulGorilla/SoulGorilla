@@ -1,6 +1,8 @@
 ## ⚡ Hi there and welcome to my page!  
 
-### 🤠 I'm a designer, investor and front-end developer living in Austin Texas
+### 🤠 I'm a designer, business builder and investor living in Austin Texas.
+
+I build, buy and sell small cash-flow businesses.
 
 I have a deep love for no-code tools, personal transformation, and designing/building cool stuff
 
